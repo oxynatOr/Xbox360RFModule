@@ -33,6 +33,9 @@
 
 ### GPIO Pinout
 
+![thanks to blackfin!](/doc/revH-RF01.jpeg)
+
+
 | ESP | RF | Note |
 | --- | --- | --- |
 | GPIO 04 | PIN-5 | SW1 |
