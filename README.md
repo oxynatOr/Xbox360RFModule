@@ -53,7 +53,7 @@
 
 ### Installation
 
-CONFIG_FREERTOS_HZ=1000
+```CONFIG_FREERTOS_HZ=1000```
 
 ## Roadmap
 
