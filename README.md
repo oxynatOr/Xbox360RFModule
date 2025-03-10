@@ -38,7 +38,7 @@
 
 | ESP | RF | Note |
 | --- | --- | --- |
-| GPIO 04 | PIN-5 | SW1 |
+| GPIO 04 | PIN-9 | SW1 |
 | GPIO 06 | TP15 | Clock |
 | GPIO 07 | TP16 | Data  |
 | 3V3 | TP18 |  |
